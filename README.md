@@ -7,6 +7,9 @@ We want to build a tool that converts spoken English to sign language in real ti
 ## Why this project?
 This tool can promote more integration of people with speech impairment into social and work contexts, therefore using tech and AI to break down barriers.
 
+## Reference
+- American Sign Language Hand Gesture Recognition (https://towardsdatascience.com/american-sign-language-hand-gesture-recognition-f1c4468fb177)
+
 ## Components
 We can split this project into 4 major components:
 - Audio to text
