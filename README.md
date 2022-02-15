@@ -1,4 +1,4 @@
-# SignLanguageTranslator
+# Sign Language Translator - Capstone Project
 
 
 ## Project Topic:
