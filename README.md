@@ -1,5 +1,7 @@
 # Sign Language Translator - Capstone Project
 
+## Main Branch Repo in Jose Garcia (https://github.com/jgarcia2411/Sign-Language-Capstone/tree/main)
+
 
 ## Project Topic:
 We want to build a tool that converts spoken English to sign language in real time. And translate the sign language into text or audio in real time.
